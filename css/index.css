@@ -1,0 +1,23 @@
+p {
+  color: red;
+  font-size: 18px;
+}
+
+.parrafoverde {
+  text-align: center;
+  color: green;
+}
+
+h1 {
+  text-align: justify;
+  font-size: 80px;
+  color: orange;
+}
+body {
+  background-image: url(img/leon.jpg);
+  background-size: 100% 100%;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
