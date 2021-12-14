@@ -6,6 +6,7 @@ p {
 .parrafoverde {
   text-align: center;
   color: green;
+  font-style: italic;
 }
 
 h1 {
@@ -15,9 +16,15 @@ h1 {
 }
 body {
   background-image: url(img/leon.jpg);
-  background-size: 100% 100%;
+  background-size: 500px;
+  background-repeat: no-repeat;
 }
 img {
   width: 100px;
   height: 100px;
+}
+.panda {
+  list-style-image: url(img/panda.jpg);
+  list-style-image: 2px;
+  background-repeat: no-repeat;
 }
